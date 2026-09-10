@@ -2,8 +2,7 @@
 
 Este repositorio divide el notebook original en **9 módulos independientes
 pero correlacionados**, más un orquestador (`main.py`) que los ejecuta en
-el orden correcto. Pensado para subir a GitHub como conjunto de scripts
-reutilizables, no como notebook monolítico.
+el orden correcto.
 
 ## Corrección aplicada
 
